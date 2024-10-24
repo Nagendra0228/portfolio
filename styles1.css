@@ -327,13 +327,12 @@ footer p {
 
 /* Contact Section */
 .contact-section {
-    background-color: #f9f9f9; /* Light background color */
+    background-color: #b68f99; /* Light background color */
     padding: 40px 20px; /* Padding for the section */
     border-radius: 8px; /* Rounded corners */
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Shadow effect */
     margin: 20px auto; /* Center it with margin */
     max-width: 600px; /* Max width for the form */
-    color: #00c6ff;
 }
 
 .contact-section h2 {
@@ -378,6 +377,7 @@ button {
 button:hover {
     background-color: #e74c3c; /* Darker shade on hover */
 }
+
 
 
 /* Footer Section */
